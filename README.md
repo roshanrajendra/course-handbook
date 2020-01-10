@@ -1,2 +1,2 @@
 # learn-python
-Repo for notebook workflows to learn python from scratch and its dependencies
+Repo for handbook materials to learn tools and technologies related to data engineering and visualization
